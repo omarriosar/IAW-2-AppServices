@@ -57,3 +57,7 @@ Los App Services (AS) de Azure nos permiten poner en funcionamiento nuestras apl
 ![Configurar](imgs/AS17.PNG)
 17. En caso de requerir cambiar los planes del servicio para mejorar las prestaciones de nuestra AS, podemos hacerlo en **Scale Up (App Service Plan)**
 ![Configurar](imgs/AS18.PNG)
+
+----
+## Conclusión
+Gracias a las AS podemos configurar lo necesario para nuestros servicios de forma simple, aplicando los parámetros necesarios y seleccionando el AS ideal para nuestro propósito.
